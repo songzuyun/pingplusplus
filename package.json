@@ -1,0 +1,57 @@
+{
+  "_from": "pingpp-react-native",
+  "_id": "pingpp-react-native@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha1-c/VvGSakY/gb8RXWwBgBRjXSvZA=",
+  "_location": "/pingpp-react-native",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "pingpp-react-native",
+    "name": "pingpp-react-native",
+    "escapedName": "pingpp-react-native",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/pingpp-react-native/download/pingpp-react-native-1.0.3.tgz",
+  "_shasum": "73f56f1926a463f81bf115d6c018014635d2bd90",
+  "_spec": "pingpp-react-native",
+  "_where": "/Users/songzuyun/Documents/jiasuyun/af-app/ios",
+  "author": {
+    "name": "Ping++"
+  },
+  "bugs": {
+    "url": "https://coding.net/u/pingplusplus/p/pingpp-react-native/topic"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "React Native binding library for Ping++.",
+  "homepage": "https://coding.net/u/pingplusplus/p/pingpp-react-native/git",
+  "keywords": [
+    "pingpp",
+    "react",
+    "react-native",
+    "react-component",
+    "ios",
+    "android",
+    "payment"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "pingpp-react-native",
+  "repository": {
+    "type": "git",
+    "url": "https://git.coding.net/pingplusplus/pingpp-react-native.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.3"
+}
