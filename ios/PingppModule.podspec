@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.author             = { "song" => "619624632@qq.com" }
   s.platform     = :ios, "7.0"
   s.source       = { :git => 'https://github.com/songzuyun/pingplusplus.git', :tag => 'master'}
-  s.source_files  = "PingppModule/*.{h,m}"
+  s.source_files  = "PingppModule/**/*.{h,m}"
   s.requires_arc = true
 
   s.dependency "React"
