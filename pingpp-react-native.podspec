@@ -1,8 +1,8 @@
 
 Pod::Spec.new do |s|
-  s.name         = "pingplusplus"
+  s.name         = "pingpp-react-native"
   s.version      = "0.0.1"
-  s.summary      = "pingplusplus"
+  s.summary      = "pingpp-react-native"
   s.homepage     = "https://github.com/songzuyun/pingplusplus.git"
   s.license      = "MIT"
   s.author       = { "song" => "619624632@qq.com" }
