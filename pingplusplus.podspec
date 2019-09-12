@@ -1,8 +1,8 @@
 
 Pod::Spec.new do |s|
-  s.name         = "PingppModule"
+  s.name         = "pingplusplus"
   s.version      = "0.0.1"
-  s.summary      = "PingppModule"
+  s.summary      = "pingplusplus"
   s.homepage     = "https://github.com/songzuyun/pingplusplus.git"
   s.license      = "MIT"
   s.author       = { "song" => "619624632@qq.com" }
